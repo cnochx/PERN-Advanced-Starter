@@ -63,3 +63,6 @@ typings/
 .next
 
 package-lock.json
+
+#custom 
+.idea
